@@ -6,18 +6,12 @@
         :to="{
           name: 'home',
         }">
-        WP Vue
+        eLatestNews.com
       </router-link>
     </h1>
 
     <div>
-      <p>
-        Currently presenting content from <a :href="sourceURL">{{ splitEndpoint[2] }}</a>.
-      </p>
-
-      <button @click="showUpdater">
-        Change Endpoint
-      </button>
+     
     </div>
   </nav>
 </template>
