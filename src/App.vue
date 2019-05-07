@@ -41,7 +41,7 @@
       return {
         error: '',
         loadingOn: true,
-        loadingMessage: 'Loading WP Vue',
+        loadingMessage: 'Loading elatestnews.com',
         loadingWheel: true,
         showUpdater: false,
         viewKey: 0,
